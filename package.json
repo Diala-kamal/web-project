@@ -1,0 +1,22 @@
+{
+    "name": "web-project-jacci",
+    "version": "0.0.1",
+    "description": "* Declare your input request (as a JSON)\r * Declare your output response (as a JSON)\r * Create a function to serve your first feature\r * Test your code with command line",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Diala-kamal/web-project.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Diala-kamal/web-project/issues"
+    },
+    "homepage": "https://github.com/Diala-kamal/web-project#readme",
+    "dependencies": {
+        "fs": "^0.0.1-security"
+    }
+}

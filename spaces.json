@@ -1,0 +1,46 @@
+{
+    "mySpaces": [
+        {
+            "name": "Space 2",
+            "owner": "LWC",
+            "location": "Shufat",
+            "price": "50",
+            "rating": "3.5"
+        },
+        {
+            "name": "Space 2",
+            "owner": "LWC",
+            "location": "Shufat",
+            "price": "50",
+            "rating": "3.5"
+        },
+        {
+            "name": "Space 1",
+            "owner": "LWC",
+            "location": "Shufat",
+            "price": "50",
+            "rating": "3.5"
+        },
+        {
+            "name": "Space 1",
+            "owner": "LWC",
+            "location": "jlm",
+            "price": "50",
+            "rating": "3.5"
+        },
+        {
+            "name": "Space 1",
+            "owner": "LWC",
+            "location": "jlm",
+            "price": "50",
+            "rating": "3.5"
+        },
+        {
+            "name": "Space 1",
+            "owner": "LWC",
+            "location": "jlm",
+            "price": "50",
+            "rating": "3.5"
+        }
+    ]
+}
